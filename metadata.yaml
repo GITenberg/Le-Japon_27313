@@ -1,0 +1,27 @@
+_repo: Le-Japon_27313
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Montblanc, Charles, comte de
+    birthdate: 1833
+    deathdate: 1894
+    gutenberg_agent_id: '31279'
+    url: http://www.gutenberg.org/2009/agents/31279
+description: ''
+gutenberg_bookshelf: FR Peuples et Sociétés
+gutenberg_issued: '2008-11-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27313'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Japan'
+- !lcc 'DS'
+title: Le Japon
+url: http://www.gutenberg.org/ebooks/27313
